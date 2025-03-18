@@ -25,7 +25,7 @@ html{
     border-radius: 50%;
     width: 50px;
     height: 50px;
-    background-color: #ededed;
+    background-color: #00ff00;
 }
 body{
     top: 0;
@@ -40,8 +40,8 @@ body{
     z-index: 4;
     transition: .5s;
     border-radius: 10px;
-    border: solid #ededed;
-    background-color: #ededed;
+    border: solid #00ff00;
+    background-color: #00ff00;
    text-align: right;
 }
 
@@ -109,7 +109,7 @@ a.active{
  border-radius: 60% 100% 50% 60% ;
  
  
- background: #ededed;
+ background: #00ff00;
  animation: rotate 6s infinite linear;
  }
  
@@ -125,7 +125,7 @@ a.active{
  
  border-radius: 70% 80% 70% 70% ;
  
- background: #ededed;
+ background: #00ff00;
  
  animation: rotate 6s infinite linear;
  }
@@ -157,7 +157,7 @@ a.active{
     width: 250px;
     height: 250px;
     border-radius: 50%;
-    border: solid #ededed;
+    border: solid #00ff00;
 
 
 }
@@ -185,8 +185,8 @@ a.active{
      width: 230px;
     height: 230px;
     border-radius: 50%;
-    border: solid #ededed;
-    background-color: #ededed;
+    border: solid #00ff00;
+    background-color: #00ff00;
     object-fit: contain;
    
 }
@@ -208,8 +208,8 @@ a.active{
     height: 50px;
    font-size: 20px;
     border-radius: 50px;
-    border: solid #ededed;
-    background-color: #ededed;
+    border: solid #00ff00;
+    background-color: #00ff00;
 }
 
  .home-btn a:hover{
@@ -231,7 +231,7 @@ a.active{
 .about-section{
     
     border-radius:50px;
-    border: solid #ededed;
+    border: solid #00ff00;
     height: auto;
     margin: 20px;
     
@@ -253,7 +253,7 @@ a.active{
 
 .skills-section{
     border-radius:50px;
-    border: solid #ededed;
+    border: solid #00ff00;
     height: auto;
     margin: 20px;
     display: flex;
@@ -271,7 +271,7 @@ height: auto;
 display: flex;
 border-radius: 5px;
     margin:20px;
-   background-color: #ededed;
+   background-color: #00ff00;
     justify-content: center;
     align-items: center;
     transition: .5s;
@@ -293,7 +293,7 @@ margin: 20px;
     align-items: center;
     height: 300px;
     border-radius:50px;
-    border: solid #ededed;
+    border: solid #00ff00;
     height: auto;
     margin: 20px;
     
@@ -323,8 +323,8 @@ margin: 20px;
     align-items: center;
     width: 200px;
     height: 60px;
-    border: solid #ededed;
-    background-color: #ededed;
+    border: solid #00ff00;
+    background-color: #00ff00;
     border-radius: 60px;
     border-bottom-right-radius: 5px;
 }
